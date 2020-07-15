@@ -1,0 +1,4 @@
+{
+  "basePath": "http://localhost:8081",
+  "getEventsAPI": "/rest/events/listAll"
+}
